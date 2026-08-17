@@ -1,0 +1,8 @@
+main.py ---> gui(for now display in console, will do after its functions are fully completed), display of the generated random things, calls functions made for randomizing them
+
+
+(in stored info directory)champions.json(champs and abilities), items.json, runes.json, summs.json -----> info to store: all champions and its abilities, all items in the game, 
+runes and summoner spells
+
+
+champ_randomizer ---> function to randomize the champion and maxed abilities
