@@ -2,7 +2,7 @@ main.py ---> gui(for now display in console, will do after its functions are ful
 
 
 (in stored info directory)champions.json(champs and abilities), items.json, runes.json, summs.json -----> info to store: all champions and its abilities, all items in the game, 
-runes and summoner spells
+runes and summoner spells, DO NOT FORGET ROLES bc smite in summs for jg, support item, jungle pet
 
 
 champ_randomizer ---> function to randomize the champion and maxed abilities

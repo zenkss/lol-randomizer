@@ -1,0 +1,54 @@
+[
+    {
+        "Name":"Precision",
+        "keystones": ["Conqueror", "Fleet Footwork", "Lethal Tempo", "Press the Attack"],
+        "slots": [
+        ["Absorb Life", "Presence of Mind", "Triumph"],
+        ["Legend: Alacrity", "Legend: Bloodline", "Legend: Haste"],
+        ["Coup de Grace", "Cut Down", "Last Stand"]
+        ]
+    },
+    {
+        "Name":"Domination",
+        "keystones": ["Dark Harvest", "Electrocute", "Hail of Blades"],
+        "slots": [
+        ["Cheap Shot", "Sudden Impact", "Taste of Blood"],
+        ["Deep Ward", "Grisly Mementos", "Sixth Sense"],
+        ["Relentless Hunter", "Treasure Hunter", "Ultimate Hunter"]
+        ]
+    },
+    {
+        "Name":"Sorcery", 
+        "keystones": ["Arcane Comet", "Deathfire Touch", "Stormraider's Surge", "Summon Aery"],
+        "slots":[
+        ["Axiom Arcanist", "Manaflow Band", "Nimbus Cloak"],
+        ["Absolute Focus", "Celerity", "Transcendence"],
+        ["Gathering Storm", "Scorch", "Waterwalking"]
+      ]
+    },
+    {
+        "Name":"Resolve", 
+        "keystones": ["Aftershock", "Grasp of the Undying", "Guardian"],
+        "slots": [
+        ["Demolish", "Font of Life", "Shield Bash"],
+        ["Bone Plating", "Conditioning", "Second Wind"],
+        ["Overgrowth", "Revitalize", "Unflinching"]
+      ]
+    },
+    {
+        "Name":"Inspiration", 
+        "keystones": ["First Strike", "Glacial Augment", "Unsealed Spellbook"],
+        "slots": [
+        ["Cash Back", "Hextech Flashtraption", "Magical Footwear"],
+        ["Biscuit Delivery", "Time Warp Tonic", "Triple Tonic"],
+        ["Approach Velocity", "Cosmic Insight", "Jack Of All Trades"]
+      ]
+    },
+    {
+        "stat_shards": {
+        "slot_1": ["Ability Haste", "Adaptive Force", "Attack Speed"],
+        "slot_2": ["Adaptive Force", "Move Speed", "Health Scaling"],
+        "slot_3": ["Health", "Tenacity and Slow Resist", "Health Scaling"]
+    }
+  }
+]
